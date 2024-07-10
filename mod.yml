@@ -1,0 +1,196 @@
+title: Hide Game Settings UI
+originalAuthor: Saro
+description: Removes the UI elements referring to the PC Game Settings on the title screen and camp menu. 
+assets:
+- name: remastered/arc/menu/camp.arc/JP_camp_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/camp.arc/JP_camp_arc10.png
+- name: remastered/arc/menu/camp.arc/JP_camp_arc11.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/camp.arc/JP_camp_arc11.png
+- name: remastered/arc/menu/camp.arc/JP_camp_arc12.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/camp.arc/JP_camp_arc12.png
+- name: remastered/arc/menu/camp.arc/JP_camp_arc2.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/camp.arc/JP_camp_arc2.png
+- name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc10.png
+- name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc14.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc14.png
+- name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc15.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc15.png
+- name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc16.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc16.png
+- name: remastered/arc_de/menu/camp.arc/GR_camp_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/camp.arc/GR_camp_arc10.png
+- name: remastered/arc_de/menu/camp.arc/GR_camp_arc11.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/camp.arc/GR_camp_arc11.png
+- name: remastered/arc_de/menu/camp.arc/GR_camp_arc12.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/camp.arc/GR_camp_arc12.png
+- name: remastered/arc_de/menu/camp.arc/GR_camp_arc2.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/camp.arc/GR_camp_arc2.png
+- name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc10.png
+- name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc14.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc14.png
+- name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc15.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc15.png
+- name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc16.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc16.png
+- name: remastered/arc_en/menu/camp.arc/US_camp_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/camp.arc/US_camp_arc10.png
+- name: remastered/arc_en/menu/camp.arc/US_camp_arc11.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/camp.arc/US_camp_arc11.png
+- name: remastered/arc_en/menu/camp.arc/US_camp_arc12.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/camp.arc/US_camp_arc12.png
+- name: remastered/arc_en/menu/camp.arc/US_camp_arc6.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/camp.arc/US_camp_arc6.png
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc10.png
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc14.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc14.png
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc15.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc15.png
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc16.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc16.png
+- name: remastered/arc_es/menu/camp.arc/SP_camp_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/camp.arc/SP_camp_arc10.png
+- name: remastered/arc_es/menu/camp.arc/SP_camp_arc11.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/camp.arc/SP_camp_arc11.png
+- name: remastered/arc_es/menu/camp.arc/SP_camp_arc12.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/camp.arc/SP_camp_arc12.png
+- name: remastered/arc_es/menu/camp.arc/SP_camp_arc4.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/camp.arc/SP_camp_arc4.png
+- name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc10.png
+- name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc14.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc14.png
+- name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc15.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc15.png
+- name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc16.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc16.png
+- name: remastered/arc_fr/menu/camp.arc/FR_camp_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/camp.arc/FR_camp_arc10.png
+- name: remastered/arc_fr/menu/camp.arc/FR_camp_arc11.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/camp.arc/FR_camp_arc11.png
+- name: remastered/arc_fr/menu/camp.arc/FR_camp_arc12.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/camp.arc/FR_camp_arc12.png
+- name: remastered/arc_fr/menu/camp.arc/FR_camp_arc2.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/camp.arc/FR_camp_arc2.png
+- name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc10.png
+- name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc14.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc14.png
+- name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc15.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc15.png
+- name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc16.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc16.png
+- name: remastered/arc_it/menu/camp.arc/IT_camp_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/camp.arc/IT_camp_arc10.png
+- name: remastered/arc_it/menu/camp.arc/IT_camp_arc11.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/camp.arc/IT_camp_arc11.png
+- name: remastered/arc_it/menu/camp.arc/IT_camp_arc12.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/camp.arc/IT_camp_arc12.png
+- name: remastered/arc_it/menu/camp.arc/IT_camp_arc6.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/camp.arc/IT_camp_arc6.png
+- name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc10.png
+- name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc14.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc14.png
+- name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc15.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc15.png
+- name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc16.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc16.png
